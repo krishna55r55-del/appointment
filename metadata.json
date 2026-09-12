@@ -1,0 +1,6 @@
+{
+  "name": "AuraNeuro Physiotherapy & Rehabilitation",
+  "description": "Specialized Neuro, Orthopedic, and Pediatric physiotherapy and rehabilitation appointments for stroke recovery, paralysis, joint pain, spine disorders, and pediatric developmental milestones.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
